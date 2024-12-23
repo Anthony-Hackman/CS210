@@ -1,0 +1,3 @@
+/Users/hackman/CLionProjects/GroceryTracker/cmake-build-debug/CMakeFiles/GroceryTracker.dir
+/Users/hackman/CLionProjects/GroceryTracker/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/hackman/CLionProjects/GroceryTracker/cmake-build-debug/CMakeFiles/rebuild_cache.dir
